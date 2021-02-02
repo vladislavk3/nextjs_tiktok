@@ -1,0 +1,11 @@
+{
+    "name": "Stats Check Lol",
+    "short_name": "SCL",
+    "icons": [
+      {
+        "src": "/img/favicon.png"
+      }
+    ],
+    "start_url": "./",
+    "display": "standalone"
+  }
